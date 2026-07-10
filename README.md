@@ -18,7 +18,7 @@
 - 🧪 Trained through AI/ML & Data Science internships — **APSCHE, SmartBridge, IBM, and Cognitive Class**
 - 💡 I enjoy building end-to-end projects — from model training to a working, deployed web app
 - 💼 Currently looking for **entry-level Software Development / Data Science / ML roles**
-- 📫 Reach me at: **[your.email@example.com]** · [LinkedIn](https://linkedin.com/in/your-handle)
+- 📫 Reach me at: **[kudipudisatyanarayana321@gmail.com]** · [LinkedIn](www.linkedin.com/in/satyanarayana-kudipudi)
 
 ---
 
